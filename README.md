@@ -1,3 +1,3 @@
 # Design Patterns
 
-Design Pattern in Various Leanguage
+Design Pattern Example in Various Language
