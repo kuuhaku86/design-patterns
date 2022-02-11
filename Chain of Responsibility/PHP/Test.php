@@ -48,11 +48,7 @@ class Test {
         echo $response->describe();
 
         echo "\n\nTest Cached\n";
-        $request = new Request(
-            true,
-            true,
-            "/test"
-        );
+
         $response = $authentication->execute($request);
 
         echo $response->describe();
