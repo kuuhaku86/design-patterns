@@ -1,1 +1,1 @@
-# Factory
+# Factory Method

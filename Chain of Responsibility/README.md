@@ -11,4 +11,3 @@ For example, we will built a system that will process the request from client an
 ## Source
 - https://itnext.io/easy-patterns-chain-of-responsibility-9a84307ad837
 - https://sourcemaking.com/design_patterns/chain_of_responsibility
-- https://refactoring.guru/design-patterns/chain-of-responsibility
