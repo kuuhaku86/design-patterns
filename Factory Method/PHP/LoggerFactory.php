@@ -8,13 +8,13 @@ require_once('LoggerType.php');
 class LoggerFactory {
     public function create(int $type) {
         switch ($type) {
-            case LoggerType::InfoLogger:
+            case LoggerType::InfoLoggerType:
                 return new InfoLogger;
             
-            case LoggerType::WarningLogger:
+            case LoggerType::WarningLoggerType:
                 return new WarningLogger;
 
-            case LoggerType::ErrorLogger:
+            case LoggerType::ErrorLoggerType:
                 return new ErrorLogger;
 
             default:

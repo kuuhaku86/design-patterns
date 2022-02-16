@@ -2,7 +2,7 @@
 
 class LoggerType
 {
-    const InfoLogger = 1;
-    const WarningLogger = 2;
-    const ErrorLogger = 3;
+    const InfoLoggerType = 1;
+    const WarningLoggerType = 2;
+    const ErrorLoggerType = 3;
 }
