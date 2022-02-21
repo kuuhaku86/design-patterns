@@ -61,7 +61,7 @@ There is example design pattern for every type.
 |                     | [Prototype]() | 
 |                     | [Singleton]() | 
 | Behavioral Patterns | [Chain of Responsibility](Chain%20of%20Responsibility/) |
-|                     | [Command]() | 
+|                     | [Command](Command/) | 
 |                     | [Interpreter]() | 
 |                     | [Iterator]() | 
 |                     | [Mediator]() | 
