@@ -65,7 +65,7 @@ There is example design pattern for every type.
 |                     | [Interpreter]() | 
 |                     | [Iterator]() | 
 |                     | [Mediator]() | 
-|                     | [Memento]() | 
+|                     | [Memento](Memento/) | 
 |                     | [Null Object]() | 
 |                     | [Observer]() | 
 |                     | [State]() | 
