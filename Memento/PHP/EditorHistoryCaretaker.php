@@ -10,6 +10,10 @@ class EditorHistoryCaretaker {
     }
 
     public function get(int $index) { 
+        if (count($this->stateList) < 1) {
+            return null;
+        }
+
         if (count($this->stateList) < $index + 1) {
             return $this->stateList[count($this->stateList) - 1];
         } else {

@@ -14,7 +14,7 @@ class Editor {
     }
 
     public function save() {
-        return new WorkspaceState($this->state);
+        return new WorkspaceState($this->getState());
     }
 
     public function restore(WorkspaceState $workspaceState) {
