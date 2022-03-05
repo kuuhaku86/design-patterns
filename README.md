@@ -51,7 +51,7 @@ There is example design pattern for every type.
 |                     | [Bridge]() | 
 |                     | [Composite]() | 
 |                     | [Decorator]() | 
-|                     | [Facade]() | 
+|                     | [Facade](Facade/) | 
 |                     | [Flyweight]() | 
 |                     | [Proxy]() | 
 | Creational Patterns | [Abstact Factory]() |
@@ -63,7 +63,7 @@ There is example design pattern for every type.
 | Behavioral Patterns | [Chain of Responsibility](Chain%20of%20Responsibility/) |
 |                     | [Command](Command/) | 
 |                     | [Interpreter]() | 
-|                     | [Iterator]() | 
+|                     | [Iterator](Iterator/) | 
 |                     | [Mediator]() | 
 |                     | [Memento](Memento/) | 
 |                     | [Null Object]() | 
