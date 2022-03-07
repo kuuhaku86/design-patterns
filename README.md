@@ -47,7 +47,7 @@ There is example design pattern for every type.
 
 |  Type  | Example |
 |------|---------|
-| Structural Patterns | [Adapter]() |
+| Structural Patterns | [Adapter](Adapter/) |
 |                     | [Bridge]() | 
 |                     | [Composite]() | 
 |                     | [Decorator]() | 
