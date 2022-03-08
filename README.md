@@ -48,8 +48,8 @@ There is example design pattern for every type.
 |  Type  | Example |
 |------|---------|
 | Structural Patterns | [Adapter](Adapter/) |
-|                     | [Bridge]() | 
-|                     | [Composite]() | 
+|                     | [Bridge](Bridge/) | 
+|                     | [Composite](Composite/) | 
 |                     | [Decorator]() | 
 |                     | [Facade](Facade/) | 
 |                     | [Flyweight]() | 
