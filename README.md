@@ -50,7 +50,7 @@ There is example design pattern for every type.
 | Structural Patterns | [Adapter](Adapter/) |
 |                     | [Bridge](Bridge/) | 
 |                     | [Composite](Composite/) | 
-|                     | [Decorator]() | 
+|                     | [Decorator](Decorator/) | 
 |                     | [Facade](Facade/) | 
 |                     | [Flyweight]() | 
 |                     | [Proxy]() | 
