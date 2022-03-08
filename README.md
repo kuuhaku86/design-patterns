@@ -52,7 +52,7 @@ There is example design pattern for every type.
 |                     | [Composite](Composite/) | 
 |                     | [Decorator](Decorator/) | 
 |                     | [Facade](Facade/) | 
-|                     | [Flyweight]() | 
+|                     | [Flyweight](Flyweight/) | 
 |                     | [Proxy]() | 
 | Creational Patterns | [Abstact Factory]() |
 |                     | [Builder]() | 
