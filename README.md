@@ -53,7 +53,7 @@ There is example design pattern for every type.
 |                     | [Decorator](Decorator/) | 
 |                     | [Facade](Facade/) | 
 |                     | [Flyweight](Flyweight/) | 
-|                     | [Proxy]() | 
+|                     | [Proxy](Proxy/) | 
 | Creational Patterns | [Abstact Factory]() |
 |                     | [Builder]() | 
 |                     | [Factory Method](Factory%20Method/) | 
