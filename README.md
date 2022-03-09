@@ -54,7 +54,7 @@ There is example design pattern for every type.
 |                     | [Facade](Facade/) | 
 |                     | [Flyweight](Flyweight/) | 
 |                     | [Proxy](Proxy/) | 
-| Creational Patterns | [Abstact Factory]() |
+| Creational Patterns | [Abstact Factory](Abstract%20Factory/) |
 |                     | [Builder]() | 
 |                     | [Factory Method](Factory%20Method/) | 
 |                     | [Object Pool]() | 
