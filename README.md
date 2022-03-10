@@ -66,7 +66,7 @@ There is example design pattern for every type.
 |                     | [Iterator](Iterator/) | 
 |                     | [Mediator](Mediator/) | 
 |                     | [Memento](Memento/) | 
-|                     | [Null Object]() | 
+|                     | [Null Object](Null%20Object/) | 
 |                     | [Observer]() | 
 |                     | [State]() | 
 |                     | [Strategy]() | 
