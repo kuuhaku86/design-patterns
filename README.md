@@ -64,7 +64,7 @@ There is example design pattern for every type.
 |                     | [Command](Command/) | 
 |                     | [Interpreter](Interpreter/) | 
 |                     | [Iterator](Iterator/) | 
-|                     | [Mediator]() | 
+|                     | [Mediator](Mediator/) | 
 |                     | [Memento](Memento/) | 
 |                     | [Null Object]() | 
 |                     | [Observer]() | 
