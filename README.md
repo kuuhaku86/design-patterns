@@ -58,8 +58,8 @@ There is example design pattern for every type.
 |                     | [Builder](Builder/) | 
 |                     | [Factory Method](Factory%20Method/) | 
 |                     | [Object Pool](Object%20Pool/) | 
-|                     | [Prototype]() | 
-|                     | [Singleton]() | 
+|                     | [Prototype](Prototype/) | 
+|                     | [Singleton](Singleton/) | 
 | Behavioral Patterns | [Chain of Responsibility](Chain%20of%20Responsibility/) |
 |                     | [Command](Command/) | 
 |                     | [Interpreter]() | 
