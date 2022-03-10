@@ -15,6 +15,6 @@ class User implements UserInterface {
     }
 
     public function buy() {
-        echo "User {$this->name} buy the product\n";
+        echo "User {$this->name} buys the product\n";
     }
 }
