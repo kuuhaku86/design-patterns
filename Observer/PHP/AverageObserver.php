@@ -10,17 +10,17 @@ class AverageObserver implements IObserver {
 
     public function update(int $CPU, int $RAM) {
         $this->resources[] = [$CPU, $RAM];
-        $tempAverageCPU = 0;
-        $tempAverageRAM = 0;
+        $tempCPU = 0;
+        $tempRAM = 0;
         $this->counter++;
 
         foreach ($this->resources as $resource) {
-            $tempAverageCPU += $resource[0];
-            $tempAverageRAM += $resource[1];
+            $tempCPU += $resource[0];
+            $tempRAM += $resource[1];
         }
 
-        $this->averageCPU = $tempAverageCPU / $this->counter;
-        $this->averageRAM = $tempAverageRAM / $this->counter;
+        $this->averageCPU = $tempCPU / $this->counter;
+        $this->averageRAM = $tempRAM / $this->counter;
 
         echo "Current Average CPU: {$this->averageCPU}\nCurrent Average RAM: {$this->averageRAM}\n";
     }
