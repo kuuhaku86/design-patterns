@@ -69,7 +69,7 @@ There is example design pattern for every type.
 |                     | [Null Object](Null%20Object/) | 
 |                     | [Observer](Observer/) | 
 |                     | [State](State/) | 
-|                     | [Strategy]() | 
+|                     | [Strategy](Strategy/) | 
 |                     | [Template method]() | 
 |                     | [Visitor]() | 
 
