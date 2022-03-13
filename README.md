@@ -68,7 +68,7 @@ There is example design pattern for every type.
 |                     | [Memento](Memento/) | 
 |                     | [Null Object](Null%20Object/) | 
 |                     | [Observer](Observer/) | 
-|                     | [State]() | 
+|                     | [State](State/) | 
 |                     | [Strategy]() | 
 |                     | [Template method]() | 
 |                     | [Visitor]() | 
