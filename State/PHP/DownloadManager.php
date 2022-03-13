@@ -12,7 +12,9 @@ class DownloadManager {
 
     public function setState(IState $state) {
         $this->current = $state;
+    }
 
+    public function action() {
         $this->current->action();
     }
 }

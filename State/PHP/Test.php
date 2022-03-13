@@ -10,9 +10,13 @@ class Test {
         $pauseState = new PauseState;
         $downloadManager = new DownloadManager($continueState);
 
-        // Test set state
+        // Test pause state
         $downloadManager->setState($pauseState);
+        $downloadManager->action();
+
+        // Test continue state
         $downloadManager->setState($continueState);
+        $downloadManager->action();
     }
 }
 
