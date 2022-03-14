@@ -71,7 +71,7 @@ There is example design pattern for every type.
 |                     | [State](State/) | 
 |                     | [Strategy](Strategy/) | 
 |                     | [Template Method](Template%20Method/) | 
-|                     | [Visitor]() | 
+|                     | [Visitor](Visitor/) | 
 
 ## Link for Project Design
 
