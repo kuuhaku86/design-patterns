@@ -70,7 +70,7 @@ There is example design pattern for every type.
 |                     | [Observer](Observer/) | 
 |                     | [State](State/) | 
 |                     | [Strategy](Strategy/) | 
-|                     | [Template method]() | 
+|                     | [Template Method](Template%20Method/) | 
 |                     | [Visitor]() | 
 
 ## Link for Project Design
