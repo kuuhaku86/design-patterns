@@ -112,34 +112,6 @@ There is example design pattern for every type.
     </tbody>
 </table>
 
-|  Type  | Example |
-|------|---------|
-| Structural Patterns | [Adapter](Adapter/) |
-|                     | [Bridge](Bridge/) | 
-|                     | [Composite](Composite/) | 
-|                     | [Decorator](Decorator/) | 
-|                     | [Facade](Facade/) | 
-|                     | [Flyweight](Flyweight/) | 
-|                     | [Proxy](Proxy/) | 
-| Creational Patterns | [Abstract Factory](Abstract%20Factory/) |
-|                     | [Builder](Builder/) | 
-|                     | [Factory Method](Factory%20Method/) | 
-|                     | [Object Pool](Object%20Pool/) | 
-|                     | [Prototype](Prototype/) | 
-|                     | [Singleton](Singleton/) | 
-| Behavioral Patterns | [Chain of Responsibility](Chain%20of%20Responsibility/) |
-|                     | [Command](Command/) | 
-|                     | [Interpreter](Interpreter/) | 
-|                     | [Iterator](Iterator/) | 
-|                     | [Mediator](Mediator/) | 
-|                     | [Memento](Memento/) | 
-|                     | [Null Object](Null%20Object/) | 
-|                     | [Observer](Observer/) | 
-|                     | [State](State/) | 
-|                     | [Strategy](Strategy/) | 
-|                     | [Template Method](Template%20Method/) | 
-|                     | [Visitor](Visitor/) | 
-
 ## Link for Project Design
 
 - https://drive.google.com/drive/folders/1_NgANqSiI5ocgHpWbUWiWy2_Ys0v_frU?usp=sharing
