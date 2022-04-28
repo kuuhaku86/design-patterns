@@ -16,13 +16,13 @@ class Report {
         if ($this->filename) {
             echo "The name of the file is " . $this->filename . "\n";
         } else {
-            echo "The name file doesn't have any name\n";
+            echo "The file doesn't have any name\n";
         }
 
         if ($this->content) {
             echo "The content of the file is " . $this->content . "\n";
         } else {
-            echo "The name file doesn't have any content\n";
+            echo "The file doesn't have any content\n";
         }
     }
 }
