@@ -1,0 +1,12 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "test": "node Test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
